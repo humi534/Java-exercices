@@ -1,0 +1,2 @@
+module LinkedList_Generic {
+}
